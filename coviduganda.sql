@@ -1,9 +1,4 @@
-select *
-from Sheet1$
 
-
-select *
-from dbo.Sheet1$
 
 create view deathscases as
 -----select data we are going to be using
